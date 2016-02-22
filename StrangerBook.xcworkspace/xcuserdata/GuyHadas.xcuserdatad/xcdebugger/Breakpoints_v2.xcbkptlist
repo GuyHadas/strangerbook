@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "StrangerBook/PostCell.swift"
-            timestampString = "477802994.778848"
+            timestampString = "477821726.386094"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
             landmarkName = "configureCell(_:img:)"
             landmarkType = "5">
          </BreakpointContent>
